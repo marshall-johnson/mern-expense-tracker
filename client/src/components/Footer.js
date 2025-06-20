@@ -18,11 +18,11 @@ const Footer = ({ ref }) => {
           className={`link ${
             dayTheme ? "day-footer-link" : "night-footer-link"
           }`}
-          href="https://kjh311.github.io/new_portfolio/"
+          href="https://github.com/marshall-johnson/"
           target="_blank"
           rel="noreferrer"
         >
-          Kevin Huelsmann
+          Marshall Johnson
         </a>
         . All rights reserved.
       </div>
